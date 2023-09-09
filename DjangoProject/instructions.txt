@@ -1,0 +1,11 @@
+step 1:
+select interpreter
+
+step2:
+run server: "python manage.py runserver"
+
+step 3:
+Then the given dashboard will display. There are few options that added in left menu of the dashboard.first one is Todos, when we click on that menu the Todo list will display on dashboard, there are more options available like add todo, update todo and delete todo.
+
+step 4:
+The other option is weather,that return the weather of a certain city or the current weather. when we click on it, a page will display on dashboard it cotains textbox that ask the city that we want to take the weather.And another button that give the current location weather
